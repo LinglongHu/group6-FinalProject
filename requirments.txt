@@ -1,0 +1,7 @@
+beautifulsoup4
+matplotlib
+pandas
+requests
+sqlalchemy
+folium
+numpy
