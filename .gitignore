@@ -16,3 +16,24 @@
 .DS_Store
 Thumbs.db
 
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment folders
+venv/
+.env/
+
+# Ignore log files
+*.log
+
+# Ignore temporary or backup files
+*.tmp
+*.bak
+*.swp
+*.~*
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
